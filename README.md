@@ -9,6 +9,6 @@
 **ORM:** Entinty Framework 5
 **Base de datos:** SQLServer, SQL Express
 
-##Acerda de la app
+## Acerda de la app
 En el fronted creamos componentes reutilizables y servicios. Además se realizo la creación formularios reactivos con sus respectivas validaciones. 
 En el backend se creo una API con cuatro metodos GET, POST, PUT y DELETE. Y se realizaron consultas la base de datos con Entity Framework.
